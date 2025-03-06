@@ -1,0 +1,4 @@
+there are 3 states of the file:
+1] Modified State
+2] Staged State
+3] Commit State
